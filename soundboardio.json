@@ -1,0 +1,116 @@
+{
+  "name": "Developers pain",
+  "shortName": "developers",
+  "description": "Debug your life with these classic developer sounds",
+  "story": [
+    "Coding is 10% writing code and 90% debugging why it doesn't work. 😅",
+    "We built the \"Developer's Pain\" soundboard specifically for that 90%.",
+    "When production breaks, the deployment fails, or that dreaded Slack notification hits, don't just internalize the stress. Smash the \"Windows XP Error\" key instead.",
+    "It’s open-source, keyboard-friendly, and serves as instant audio therapy for engineers. Give it a try during your next incident review!"
+  ],
+  "author": {
+    "name": "AquaSoup",
+    "url": "https://aquasoup.com"
+  },
+  "color": "#8B0000",
+  "version": "1.0.0",
+  "lang": "en",
+  "rootUrl": "sounds/",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "1200x655",
+      "type": "image/jpg"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.png",
+      "sizes": "64x64",
+      "purpose": "maskable any",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Access denied",
+      "filename": "access-denied.mp3"
+    },
+    {
+      "name": "Bomb has been planted",
+      "filename": "bomb-has-been-planted.mp3"
+    },
+    {
+      "name": "Slack: Cursed notifications",
+      "filename": "cursed-notifications.mp3"
+    },
+    {
+      "name": "Dialup modem",
+      "filename": "dialup-modem.mp3"
+    },
+    {
+      "name": "Dun dun dun",
+      "filename": "dun-dun-dun.mp3"
+    },
+    {
+      "name": "Windows: Error 404",
+      "filename": "error-404.mp3"
+    },
+    {
+      "name": "Gta V: Wasted",
+      "filename": "gta-v-wasted-death.mp3"
+    },
+    {
+      "name": "ICQ: uh oh",
+      "filename": "icq-uh-oh.mp3"
+    },
+    {
+      "name": "Intel",
+      "filename": "intel-sound.mp3"
+    },
+    {
+      "name": "Keyboard typing",
+      "filename": "keyboard-typing.mp3"
+    },
+    {
+      "name": "Nokia ringtone",
+      "filename": "nokia-ringtone.mp3"
+    },
+    {
+      "name": "Oh",
+      "filename": "oh.mp3"
+    },
+    {
+      "name": "Pacman dies",
+      "filename": "pacman-dies.mp3"
+    },
+    {
+      "name": "Super Mario: Coin",
+      "filename": "super-mario-coin-sound.mp3"
+    },
+    {
+      "name": "Teams call",
+      "filename": "teams-call.mp3"
+    },
+    {
+      "name": "Tindeck",
+      "filename": "tindeck.mp3"
+    },
+    {
+      "name": "Windows 95: Startup sound",
+      "filename": "windows-95-startup-sound.mp3"
+    },
+    {
+      "name": "Windows: Error",
+      "filename": "windows-error.mp3"
+    }
+  ]
+}
