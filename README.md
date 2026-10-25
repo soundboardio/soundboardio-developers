@@ -14,7 +14,7 @@
    - Make sure your repository is **public** and its name starts with `soundboardio-`
    - Prepare your **sounds** (Github or self-hosted files)
    - Create your **[`soundboardio.json`](https://github.com/soundboardio/soundboardio-developers/blob/master/soundboardio.json) manifest**. Be creative. Choose name, description, colors and tiles, ... The [generator](https://soundboardio.com/generator/) builds it for you and the [validator](https://soundboardio.com/validator/) checks it.
-   - Prepare **icons** (you will need at least two icons if you want your app to be installable). [See this example](https://github.com/soundboardio/soundboardio-developers/blob/master/soundboardio.json#L19)
+   - Prepare **icons**: a 192×192 and a 512×512 PNG. The installed app uses them as its icon, without them it gets the SoundBoardio logo. [See this example](https://github.com/soundboardio/soundboardio-developers/blob/master/soundboardio.json#L19)
 2. Now you can just open your shiny new app with your own url. It's working automagically.
 
 > If your repository is called https://github.com/ `soundboardio/soundboardio-developers` your SoundBoardio url will be https://soundboardio.com/ `app/soundboardio/developers`
